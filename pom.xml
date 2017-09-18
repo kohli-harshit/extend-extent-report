@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.l2a</groupId>
-    <artifactId>extend-extend-report</artifactId>
+    <artifactId>extend-extent-report</artifactId>
     <version>1.0</version>
     <dependencies>
         <dependency>
