@@ -32,7 +32,6 @@ public class Main {
             System.out.println("Report Path - " + reportPath);
             System.out.println("Destination Folder - " + destinationPath);
             System.out.println("PhantomJS Path - " + phantomJSExePath);
-
             System.setProperty("phantomjs.binary.path",phantomJSExePath);
 
             System.out.println("Creating Phantom Instance...");
