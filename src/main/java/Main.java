@@ -76,7 +76,7 @@ public class Main {
             System.out.println("Error Message = " + e.getMessage());
             e.printStackTrace();
         }finally{
-            driver.close();
+            driver.quit();
         }
     }
 
