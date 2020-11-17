@@ -37,7 +37,7 @@
                         <!-- bind to the packaging phase -->
                         <phase>package</phase>
                         <goals>
-                            <goal>single</goal>
+                            <goal>clean test</goal>
                         </goals>
                     </execution>
                 </executions>
